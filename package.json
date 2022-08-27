@@ -1,0 +1,14 @@
+{
+  "name": "cypress-automation",
+  "version": "1.0.0",
+  "author": "Gyanendra Pandey",
+  "description": "Cypress automation using typescript language",
+  "license": "MIT",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^10.6.0",
+    "typescript": "^4.8.2"
+  }
+}
